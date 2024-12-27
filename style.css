@@ -80,11 +80,11 @@ color: lightyellow;
     }
     .cards .card[class*="element"]
     {
-        margin-left: 30px;
+        margin-left: 5px;
     }
     .cards .card
     {
-        margin-left: 30px;
+        margin-left: 5px;
     }
 h1
 {
